@@ -1,5 +1,11 @@
 # Автосалон CMS (PHP + MySQL)
 
+## Screenshots
+
+| Homepage | Admin Panel |
+|--------|-------------|
+| ![](screenshots/main.png) | ![](screenshots/admin.png) |
+
 Проект: production-ready CMS для автосалона (PHP 8.x, MySQL 8.x). Дизайн, CSS и JS сохранены. Админ-панель, CRUD автомобилей и админов, заявки, отзывы, загрузка изображений.
 
 > **Примечание:** Проект выполнен как студенческая работа. Репозиторий будет поддерживаться и обновляться. Любой желающий может использовать проект как основу для своих задач. Лицензия не устанавливается.
@@ -70,6 +76,12 @@ https://ВАШ_ДОМЕН/admin/login.php
 ---
 
 # Car Dealership CMS (PHP + MySQL)
+
+## Screenshots
+
+| Homepage | Admin Panel |
+|--------|-------------|
+| ![](screenshots/main.png) | ![](screenshots/admin.png) |
 
 Production-ready CMS for a car dealership (PHP 8.x, MySQL 8.x). Layout, CSS, and JS preserved. Admin panel, cars/admins CRUD, leads, reviews, image upload.
 
